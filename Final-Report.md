@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-    <h2 style="text-decoration: none; border-bottom: none;">
+    <div style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">
         <b>GSoC Project Page: </b>
         <a href="https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb">Diet Management in CARE</a>
-    </h2>
-    <h2 style="text-decoration: none; border-bottom: none;">
+    </div>
+    <div style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">
         <b>GSoC Organization: </b>
         <a href="https://ohc.network/">Open HealthCare Network</a>
-    </h2>
+    </div>
 </div>
 
 <br />
@@ -61,7 +61,7 @@ The Diet Management module aims to bridge the gap between clinical care and nutr
 -	List of Nutrition Orders for a particular encounter can be found under ‘Nutrition Orders’ encounter tab.
 -	Canteen staff can see the list of all pending orders linked to their specific canteen location, along with the details of the order.
 -	Canteen staff can update the status of an order, and once it is mark completed, it will be ready to deliver.
--	Nurses/Staff can log intake for the Nutrition Orders marked as completed by canteen staff, under the ‘Nutrition Orders’ encounter tab.
+-	Nurses/Staff can log intake for the Nutrition Orders marked as completed by canteen staff, under the "Nutrition Orders" encounter tab.
 -	Intake Logging provides detailed information of intake like consumption status, consumption amount and reason for consumption.
 -	The Diet Management module is integrated to work seamlessly with the main care application in encounters, questionnaires, location services, etc.
 
