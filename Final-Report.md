@@ -6,15 +6,14 @@
     <img src="https://github.com/user-attachments/assets/3be0b18e-9cd8-4b84-85de-74455d42a6bf" height="300" width="600">
 </div>
 
+<br />
+
 <div align="center">
-    <div style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">
-        <b>GSoC Project Page: </b>
-        <a href="https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb">Diet Management in CARE</a>
-    </div>
-    <div style="font-size: 1.5em; font-weight: bold; margin: 10px 0;">
-        <b>GSoC Organization: </b>
-        <a href="https://ohc.network/">Open HealthCare Network</a>
-    </div>
+
+## **GSoC Project Page:** [Diet Management in CARE](https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb)
+
+## **GSoC Organization:** [Open HealthCare Network](https://ohc.network/)
+
 </div>
 
 <br />
