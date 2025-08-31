@@ -1,10 +1,50 @@
 # Diet Management in CARE
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3be0b18e-9cd8-4b84-85de-74455d42a6bf" height="300" width="600">
+</div>
+
+<div align="center">
+    <h2>
+        <b>GSoC Project Page: </b>
+        <a href="https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb">Diet Management in CARE</a>
+    </h2>
+    <h2>
+        <b>GSoC Organization: </b>
+        <a href="https://ohc.network/">Open HealthCare Network</a>
+    </h2>
+</div>
+
+<br />
+
+## Contributor's Info
+
+| Field | Details |
+|-------|---------|
+| **Name** | Spandan Mishra |
+| **Organization** | [Open HealthCare Network](https://ohc.network/) |
+| **GitHub** | [Spandan-Mishra](https://github.com/Spandan-Mishra) |
+| **LinkedIn** | [Spandan Mishra](https://in.linkedin.com/in/spandan-mishra-a584b7302) |
+| **X (formerly Twitter)** | [spandev_](https://x.com/spandev_) |
+
+<br />
+
+## Mentors' Info
+
+- [Amjith Titus](https://github.com/amjithtitus09)
+- [Yaswanth Kumar Bethu](https://github.com/yash-learner)
+
+<br />
+
 ## Project Summary
 
 The Diet Management module aims to bridge the gap between clinical care and nutritional health within CARE’s ecosystem. This module will empower patients to adjust their dietary plans, while also being able to monitor and track their eating habits. By integrating dietary data with existing patient records, CARE will unify medical and lifestyle interventions. My proposal gives detailed architectures for the Meal Plan Integration, Calorie Tracking, Nutritional Recommendations, and Patient Record Integration features. It comprises in depth descriptions, workflows and technologies that are needed to integrate the Diet Management module in CARE.
 
 <br />
+
+## GSoC Project Proposal
+
+- Project Proposal: [Diet Management in CARE](https://github.com/Spandan-Mishra/GSoC-2025/blob/main/docs/GSoC-2025-Accepted-Proposal.pdf)
 
 ## Deliverables of the project
 
