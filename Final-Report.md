@@ -4,6 +4,8 @@
 
 The Diet Management module aims to bridge the gap between clinical care and nutritional health within CARE’s ecosystem. This module will empower patients to adjust their dietary plans, while also being able to monitor and track their eating habits. By integrating dietary data with existing patient records, CARE will unify medical and lifestyle interventions. My proposal gives detailed architectures for the Meal Plan Integration, Calorie Tracking, Nutritional Recommendations, and Patient Record Integration features. It comprises in depth descriptions, workflows and technologies that are needed to integrate the Diet Management module in CARE.
 
+<br />
+
 ## Deliverables of the project
 
 - Staff can create new Nutrition Products.
@@ -18,16 +20,19 @@ The Diet Management module aims to bridge the gap between clinical care and nutr
 -	Intake Logging provides detailed information of intake like consumption status, consumption amount and reason for consumption.
 -	The Diet Management module is integrated to work seamlessly with the main care application in encounters, questionnaires, location services, etc.
 
+<br />
 
 ## Setup
 
 Steps to setup the Diet Management module with the main Care application can be found here:
--	Care Diet Frontend: [care_diet_fe]https://github.com/Spandan-Mishra/care_diet_fe/blob/main/README.md
--	Care Diet Backend: [care_diet_plugin]https://github.com/Spandan-Mishra/care_diet_plugin/blob/main/README.md
+-	Care Diet Frontend: [care_diet_fe](https://github.com/Spandan-Mishra/care_diet_fe/blob/main/README.md)
+-	Care Diet Backend: [care_diet_plugin](https://github.com/Spandan-Mishra/care_diet_plugin/blob/main/README.md)
+
+<br />
 
 ## Flow of diet management
 
-### **Nutrition Product Management**
+### 1. Nutrition Product Management
 
 **Product Creation**
 
@@ -43,7 +48,7 @@ Steps to setup the Diet Management module with the main Care application can be 
 -	Individual products can be viewed/edited through NutritionProductView which loads product details and allows modifications
 -	The backend uses ProductViewSet to handle CRUD operations with proper serialization through ProductSerializer
 
-### Nutrition Order Management
+### 2. Nutrition Order Management
 
 **Order Creation**
 
@@ -64,7 +69,7 @@ Nutrition Orders Tab
 -	Each order is rendered using NutritionOrderCard which displays order details, status, and allows actions
 
 
-### Canteen Dashboard
+### 3. Canteen Dashboard
 
 **Order Management**
 
@@ -73,7 +78,7 @@ Nutrition Orders Tab
 -	Order status updates (preparing, ready, completed) are handled through the dashboard interface
 -	Backend uses location-based filtering in the viewsets to ensure staff only see relevant orders
 
-### Intake Logging
+### 4. Intake Logging
 
 **Logging Interface**
 
