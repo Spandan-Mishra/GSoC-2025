@@ -1,15 +1,17 @@
 # Diet Management in CARE
 
+<br />
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/3be0b18e-9cd8-4b84-85de-74455d42a6bf" height="300" width="600">
 </div>
 
 <div align="center">
-    <h2>
+    <h2 style="text-decoration: none; border-bottom: none;">
         <b>GSoC Project Page: </b>
         <a href="https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb">Diet Management in CARE</a>
     </h2>
-    <h2>
+    <h2 style="text-decoration: none; border-bottom: none;">
         <b>GSoC Organization: </b>
         <a href="https://ohc.network/">Open HealthCare Network</a>
     </h2>
@@ -22,6 +24,7 @@
 | Field | Details |
 |-------|---------|
 | **Name** | Spandan Mishra |
+| **Email** | [spandanmishra1104@gmail.com](mailto:spandanmishra1104@gmail.com) |
 | **Organization** | [Open HealthCare Network](https://ohc.network/) |
 | **GitHub** | [Spandan-Mishra](https://github.com/Spandan-Mishra) |
 | **LinkedIn** | [Spandan Mishra](https://in.linkedin.com/in/spandan-mishra-a584b7302) |
@@ -44,7 +47,9 @@ The Diet Management module aims to bridge the gap between clinical care and nutr
 
 ## GSoC Project Proposal
 
-- Project Proposal: [Diet Management in CARE](https://github.com/Spandan-Mishra/GSoC-2025/blob/main/docs/GSoC-2025-Accepted-Proposal.pdf)
+- [Project Proposal: Diet Management in CARE](https://github.com/Spandan-Mishra/GSoC-2025/blob/main/docs/GSoC-2025-Accepted-Proposal.pdf)
+
+<br />
 
 ## Deliverables of the project
 
@@ -131,3 +136,5 @@ Nutrition Orders Tab
 -	Intake data is submitted through dietApi.createNutritionIntake()
 -	Backend creates NutritionIntake records linked to the original nutrition orders
 -	The system tracks completion status and updates order states accordingly
+
+<br />
